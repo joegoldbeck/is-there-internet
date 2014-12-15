@@ -1,0 +1,10 @@
+CACHE MANIFEST
+# version iii
+
+CACHE:
+/index.html
+
+NETWORK:
+*
+http://*
+https://*
